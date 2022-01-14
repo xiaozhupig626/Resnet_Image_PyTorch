@@ -1,0 +1,2 @@
+# Resnet_Image_PyTorch
+使用Resnet预训练模型进行图片分类
