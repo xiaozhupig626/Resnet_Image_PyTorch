@@ -1,2 +1,3 @@
 # Resnet_Image_PyTorch
 使用Resnet预训练模型进行图片分类
+数据集文件和训练好的模型参数保存文件没有上传上来
